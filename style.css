@@ -1,0 +1,21 @@
+#shoppingCart {
+    margin: auto;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+h1 {
+    background-color: lightgrey;
+    color: white;
+}
+
+#products {
+    background-color: lightgray;
+}
+
+.foodPic {
+    width: 10%;
+    height: auto;
+    margin: auto;
+    align-items: center;
+}
